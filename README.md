@@ -1,4 +1,4 @@
 # helencao00.github.io
 
-personal website respository
-testing how to use
+Welcome to my personal website
+Look around while I try to figure out how to use this
