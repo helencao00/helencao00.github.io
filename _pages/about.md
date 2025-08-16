@@ -9,9 +9,9 @@ profile:
   image: WorkPhoto.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>(440)799-7646</p>
-    <p>4363 Missile Way</p>
-    <p>Port Hueneme, CA 93043</p>
+    <p> (440)799-7646 </p>
+    <p> 4363 Missile Way </p>
+    <p> Port Hueneme, CA 93043 </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
